@@ -16,4 +16,3 @@ async function getLinks(url){
 }
 
 getLinks(url).then(data=> console.log(data))
-
